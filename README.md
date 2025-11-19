@@ -1,16 +1,6 @@
-# football_news
+# Nama Aplikasi Kamu
 
-A new Flutter project.
+[![Build Status](https://app.bitrise.io/app/b8bf95fc-a3d8-4c32-b9d0-43f11dcefef6/status.svg?token=s8vGdFVF3hZ4e29PXku0mA&branch=main)](https://app.bitrise.io/app/b8bf95fc-a3d8-4c32-b9d0-43f11dcefef6)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Download
+Download aplikasi versi terbaru: [Download APK](https://app.bitrise.io/app/b8bf95fc-a3d8-4c32-b9d0-43f11dcefef6/installable-artifacts/32b5346cda59c0e0/public-install-page/f001c78fd8eb836d878eaba8a2228dcc)
